@@ -14,5 +14,5 @@ $(call inherit-product, device/samsung/trlte/device_trlte.mk)
 PRODUCT_DEVICE := trlte
 PRODUCT_NAME := cm_trlte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := trlte
+PRODUCT_MODEL := SM-N9100
 PRODUCT_MANUFACTURER := samsung
